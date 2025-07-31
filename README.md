@@ -44,8 +44,10 @@ Si eres desarrollador y necesitas actualizar o revisar el sitio, sigue estos pas
 
 ### 1. Clona el repositorio
 
-git clone https://github.com/aamagamer/WebADM.git  
+```bash
+git clone https://github.com/aamagamer/WebADM.git
 cd WebADM
+
 
 ### 2. Abre el proyecto
 
