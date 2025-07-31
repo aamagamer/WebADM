@@ -78,6 +78,7 @@ Responsable del área de TI en ADM
 en Colaboradoción con **Oscar Alexander Castillo**
 Desarrollador Fullstack jr
 📧 aama0108003@gmail.com
+📧 oscarcastillo1805@gmail.com
 
 ---
 
